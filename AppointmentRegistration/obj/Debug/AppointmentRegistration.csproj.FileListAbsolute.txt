@@ -1,0 +1,40 @@
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\AppointmentDatabase_log.ldf
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\AppointmentRegistration.exe.config
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\AppointmentRegistration.exe
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\AppointmentRegistration.pdb
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.csprojAssemblyReference.cache
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.MainScreen.resources
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.Properties.Resources.resources
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.csproj.GenerateResource.cache
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.exe
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.pdb
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\AppointmentDatabase.mdf
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\EntityFramework.dll
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\EntityFramework.xml
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.csproj.CopyComplete
+C:\Users\beek1\source\repos\AppointmentRegistration\AppointmentRegistration\obj\Debug\AppointmentRegistration.Forms.PatientForm.resources
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\AppointmentDatabase.mdf
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\AppointmentDatabase_log.ldf
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\AppointmentRegistration.exe.config
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\AppointmentRegistration.exe
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\AppointmentRegistration.pdb
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\EntityFramework.dll
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\EntityFramework.xml
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.csprojAssemblyReference.cache
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.MainScreen.resources
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.Forms.PatientForm.resources
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.Properties.Resources.resources
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.csproj.GenerateResource.cache
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.csproj.CopyComplete
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.exe
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.pdb
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.Forms.DoctorForm.resources
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.Forms.NurseForm.resources
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.Forms.AppointmentForm.resources
+C:\Users\beek1\source\repos\AppointmentRegistration - Copy\AppointmentRegistration\obj\Debug\AppointmentRegistration.Forms.ScheduleForm.resources
